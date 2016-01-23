@@ -1,7 +1,7 @@
 name: DomesticatedIris
 favicon: null
-layout_spectrum: 0.7804028815589845
-typography_spectrum: 0.38851020601578057
+layout_spectrum: 1
+typography_spectrum: 0
 title: Domesticated Iris - Entrepreneurial crafts by Danielle Iris
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.3517089164815843
-  lightness: 0.7193013944197446
-  saturation: 0.8544761328957975
-  rhythmicContrast: 0.7786556333303452
+    - '#663397'
+    - '#000000'
+    - '#ff00ff'
+    - '#c2afd6'
+    - '#ffff00'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
